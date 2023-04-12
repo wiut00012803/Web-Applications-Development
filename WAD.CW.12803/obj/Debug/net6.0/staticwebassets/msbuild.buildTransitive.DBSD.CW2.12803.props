@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DBSD.CW2.12803.props" />
+</Project>

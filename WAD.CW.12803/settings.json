@@ -1,0 +1,13 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  },
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+    "Database": "Data Source=(LocalDB)\\\\MSSQLLocalDB;AttachDbFilename=E:\\Users\\00012803\\Downloads\\DBSD.CW2.12803\\AppData\\Database.mdf;Integrated Security=True;Connect Timeout=30"
+  }
+}
